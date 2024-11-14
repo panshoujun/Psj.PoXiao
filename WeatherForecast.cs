@@ -1,5 +1,8 @@
 namespace Psj.PoXiao.WebApi
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
